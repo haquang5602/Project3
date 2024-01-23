@@ -1,0 +1,11 @@
+Game:   Spaceship over terrain
+Idea:   
+        The player controls a spaceship across terrain
+
+How to play:
+-       The player starts at the starting position
+-       Left click to make the spaceship move in a sharp direction
+-       Right click causes the spaceship to speed through special terrain, with countdown
+-       When the spacecraft collides, the game ends
+
+Difficulty: The spacecraft will gradually accelerate, obstacles will increase in difficulty over time
